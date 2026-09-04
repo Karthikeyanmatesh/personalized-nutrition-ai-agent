@@ -64,3 +64,17 @@ Please consult a doctor or certified nutritionist for medical advice when approp
 ## 👨‍💻 Project
 
 Personalized Nutrition AI Agent using Langflow and IBM watsonx.ai.
+
+## 📸 Project Screenshots
+
+### Langflow Workflow
+
+The workflow connects Chat Input to the AI Agent and then to Chat Output.
+
+![Langflow Workflow](screenshots/langflow-workflow.png)
+
+### Playground Output
+
+The AI Agent collects user information and generates a personalized one-day diet plan.
+
+![Playground Output](screenshots/playground-output.png)
